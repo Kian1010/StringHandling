@@ -165,7 +165,7 @@ namespace string_handling
         private void BtnWarning_Click(object sender, EventArgs e)
         {
            
-            Point ButtonOriginal = new Point(716, 220);
+            Point ButtonOriginal = new Point(818, 293);
             Point newPosition = new Point(20, 180);
             Point labelOriginal = new Point(393, 21);
             Point randomPosition = new Point(39, 388);
